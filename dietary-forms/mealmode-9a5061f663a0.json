@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mealmode",
+  "private_key_id": "9a5061f663a0de9dc31b33e8346d24d93d2c5c80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnZSXTPC1x/3Ay\nXbGSizT8zxUDs0tsXWBp7hQhhu0OSld8dlte7ToM1odbw3tRi9U1W/IyoKVnL1E6\nPPOrRlYEZsTEIy+N61wmVo2B3u08H9llzYcldTz3Oxxf5jhl+u3G3nCJk9+Qo8Do\nRhL5lJmJIa/ptbQD923z8BUaElmAdivAMYwOcI8Qy+F8G/r/9wHz/c/prOQwlMJn\nAg0enhTEsSVsxDWL2QGezvF3bhcZ75P8QY+OyGZILJdUgRA8QtCqHtW2gCzxTPb3\nxY/jab0mNq8nFNHBPMfw5zfkDM2RzUiWfAXTR4oOEkwNrBrxK+3Fi6XlOkPI3OBW\nSt2xfea/AgMBAAECggEACfKpxSKNq5x5NNkdVLkCXqoCc8XGBNMg3Xz8RZK450ff\n6fxmojadq8afTB0j1JYn5OLejzmj0sNQgSn0qdTcxtSqOepvVXEcZZOMAtzUIyUV\nYhCLcltPcyuJ5T+PBidbCJUwjmGal2vK09GLaEpwrVoS53/FzPPauMWGCrhmO6UE\nAA5CjlzzjwY3ZmhNgbiJOPRukd2fSh2gh8skMRZuidQx0LpoeGpFLmi+hMQBPYih\n09KH8LOsACF8UZcs8cvythNuGKfjVDlr41fRLVWs9Uxs7EskIIVUOg69rnoG0/Lz\ndJtPaQimr5F9HsUbteUKQA82wYDJwFWvuBFkvmdZRQKBgQD0unvahuiHYYXX8x0L\n5V2UKbjfsHT9eho1x0LFbpc8/9z4v56G2LJGhZWU8a2RheiLnMaNXoyDZyP2TRXU\nt8mWP6EAY93ith6q5LqEl+wPy6Tr0nnc8ZOjajOTaubgkQH1+5h2I9XSEp+LL1y8\nqfKJXVkhGQVaergAZkv3SfD4KwKBgQDyDXRmYF6ma6XylOFSOxQBTaPLcX02vU0D\ny4bEGbtfIKr0wjTiMD6eUyePLSklt3mHoKP2fd08h/Iw5mQ7qAKEmf+z+Be6kfm5\nWxO4MGHkgjH5yBVaVVIe/nWEeHKhRd5SPIGFYwZYySQYqWiJ2HzX1iRcezNMVQ4b\n+SmTgzWNvQKBgGLCKp76GDYhzdBipFMboVLcL2XdoKh1sMQJAFIKGfAc1MBxG3kR\nU4gP+lgb205BeqF0h8+e2xdf9Ow9GVU5QZlnXgJ5Sp5lniSanwZJBJMvPAOKcXEO\n7+RfRCb2Wes/uUnZ2SG7vlrC9y1E1Kix8FUsnX40yatEoKJQpdFKPnr3AoGBAJ0M\nscuDF6ZvDhsZEiEih9ZYo7/qgM21gXTG50fxUitkrMdmAp4Ho3lihrZVHO+F3eps\nBjZ2b8dIhZHIypwSZJ/Ys5n3jJ3W/OqQ93h4m+uBth9U/NXBqijF/UXYSLfu91Lw\nQzFikMmmqC8AK/3UYxw/qxP+M8iBH0hzH9DAP00ZAoGBAImv8wromqhDUwBpVbyD\nSTCiLyE8Ngf4G6H3/lAhY5gcduDsO6+F8v+3Y9UKc+5LyZUYwe/NTTCLD7K6gUr+\nnH4PUKN9ZeNOklE6YMWi8MQ2jYjVT3dckl3SedH0EUtuVSq9jxzWwd5LVFyIFjrZ\nsN+X7+Gn84fTmxyykH0a/jV0\n-----END PRIVATE KEY-----\n",
+  "client_email": "dietary-forms@mealmode.iam.gserviceaccount.com",
+  "client_id": "105164421176577295249",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dietary-forms%40mealmode.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
